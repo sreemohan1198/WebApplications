@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\webapideployment</_PublishTargetUrl>
+    <History>True|2023-04-23T21:01:38.1342600Z;True|2023-04-23T16:56:13.8396470-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
